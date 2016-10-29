@@ -1,1 +1,2 @@
 # GithublikeLogoMaker
+yay
